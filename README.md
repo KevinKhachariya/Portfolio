@@ -5,7 +5,7 @@ List of all professional and personal projects using 3D graphics and modern User
 - React
 - Vite
 - Three JS (React Ver.)
-- Tailwind CSS
+- TailwindCSS
 
 
 ## Quickstart guide on 3D graphics and modern UI with tailwind
